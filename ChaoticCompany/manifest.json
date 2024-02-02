@@ -1,9 +1,0 @@
-{
-    "name": "ChoaticCompany",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/IsaacdmDunn/Chaotic-Company",
-    "description": "Feeling bored of good game design? Asking what if LC was a rogue-like? Try Chaotic Company a mod that randomises as many thing I could find.",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}
