@@ -1,4 +1,4 @@
-![BepInEx logo](https://raw.githubusercontent.com/IsaacdmDunn/Chaotic-Company/main/ChaoticCompany/ChaoticCompanyLogo.png)
+![Choatic Company logo](https://raw.githubusercontent.com/IsaacdmDunn/Chaotic-Company/main/logo.png)
 # Choatic Company
 
 This is the [Chaotic Company](https://github.com/IsaacdmDunn/Chaotic-Company) mod.
